@@ -1,4 +1,4 @@
-# 🌐✨ Just HTML 12
+# 🌐✨ Just HTML 1
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=JUST%20HTML&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
